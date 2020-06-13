@@ -635,7 +635,7 @@ Nun erstellen wir eine neue App:</p>
 <pre><code>heroku buildpacks:set admithub/meteor-horse
 </code></pre>
 <blockquote>
-<p><em>In einem ersten Durchlauf schlug die buildpack-configuration fehl, bis die Applikation zum ersten Mal (falsch) deployed war. Im zweiten Durchlauf, funktionierte dies ohne Probleme.</em></p>
+<p><em>In einem ersten Durchlauf schlug die buildpack-configuration fehl, bis die Applikation zum ersten Mal (falsch) deployed war. Im zweiten Durchlauf funktionierte dies ohne Probleme.</em></p>
 </blockquote>
 <h3 id="konfiguration">Konfiguration</h3>
 <p>Mittels dem Befehl</p>
