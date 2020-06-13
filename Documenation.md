@@ -644,7 +644,7 @@ zweiten Durchlauf, funktionierte dies ohne Probleme.</em></p>
 </code></pre>
 <p>soll eine Mongolab (MongoDB) Instanz im Free Tier angelegt werden, dies funktionierte leider nur, nachdem unter Account Settings eine Kreditkarte hinterlegt wurde, selbst wenn keine Kosten entstehen.<br>
 Alternativ kann man die MongoDB bei Mongolab manuell aufsetzen. Hierzu auf <a href="http://mlab.com">mlab.com</a> navigieren und dort registrieren (man wird zu <a href="http://mongodb.com">mongodb.com</a> weitergeleitet und errichtet dort einen kostenlosen MongoDB Atlas Account).<br>
-Dort erstellen wir einen neuen Cluster mit auf einem Azure Server in westeuropa im Free Tier und warten die Erstellung ab.<br>
+Dort erstellen wir einen neuen Cluster auf einem Azure Server in Westeuropa im Free Tier und warten die Erstellung ab.<br>
 Anschließend wird die Connection eingerichtet, hierzu fügen wir unsere aktuelle IP zu Whitelist und klicken anschließend auf “Connect your Application” und wählen die gewünschte Serversprache aus (Node.js) .<br>
 <img src="https://i.ibb.co/rMrJBtT/mongoconnect.png" alt="enter image description here"><br>
 Den Connectionstring kopieren wir uns in einen Texteditor</p>
