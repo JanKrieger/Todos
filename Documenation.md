@@ -696,9 +696,7 @@ Sobald diese erstellt ist, öffnen wir die Einstellungen &gt; Allgemeines und no
 <img src="https://i.ibb.co/w7Djmzd/fbsettings.png" alt="enter image description here"><br>
 Hinweis: In diesem Studentenprojekt wurde keine Page für die Datenrichtlinie und die Nutzungsbedingungen erstellt, dies ist für eine produktive Nutzung jedoch unerlässlich!</p>
 <p>Nach einem Klick auf “Produkte +” im Menü auf der linken Seite der Page, wählen wir den Facebook Login aus und klicken auf einrichten und dann auf “WWW”, geben im nachfolgenden Dialog die URL unserer Website ein<br>
-( <a href="https://jk-simple-todos.herokuapp.com">https://jk-simple-todos.herokuapp.com</a> )</p>
-<p>und öffnen die erweiterten Einstellungen.<br>
-Dort tragen wir unter “Gültige OAuth Redirect URIs” den URL unserer Website ein und erweitern diese um<br>
+( <a href="https://jk-simple-todos.herokuapp.com">https://jk-simple-todos.herokuapp.com</a> ) und öffnen die erweiterten Einstellungen. Dort tragen wir unter “Gültige OAuth Redirect URIs” den URL unserer Website ein und erweitern diese um<br>
 <code>/_oauth/facebook</code>.<br>
 <img src="https://i.ibb.co/0VzFgx2/fbloginsetting.png" alt="enter image description here"><br>
 Wir speichern die Einstellungen und schieben den Regler im oberen Berech der Seite von “In Entwicklung” auf “Live”.</p>
