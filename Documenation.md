@@ -431,7 +431,7 @@ Mittels</p>
 <pre><code>meteor add accounts-ui accounts-password
 </code></pre>
 <p>aktivieren wir das Meteor-Account System (ausgeführt aus der zweiten Shell) und bekommen in der ersten Shell (in der Meteor ausgeführt wird) folgende Meldung:<br>
-<img src="https://www.einwebtechprojekt.one/meteor_slow.png" alt="MeteorIsSlow"><br>
+<img src="https://i.ibb.co/3yYRLdD/meteor-slow.png" alt="enter image description here"><br>
 und installieren befolgen die Hinweise daraus in der zweiten Shell:</p>
 <pre><code>meteor npm install -save bcrypt
 </code></pre>
