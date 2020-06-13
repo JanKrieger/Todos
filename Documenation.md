@@ -185,9 +185,8 @@ header .hide-completed {
   }
 }
 </code></pre>
-<p>Außerdem fügen wir das Logo ein, dafür erstellen wir im Root-Verzeichnis einen neuen Ordner “public” und legen das Logo darin ab<br>
-.<br>
-In der Datei <code>body.html</code>(“imports\ui”) fügen wir nun im Header das Logo ein:</p>
+<p>Außerdem fügen wir das Logo ein, dafür erstellen wir im Root-Verzeichnis einen neuen Ordner “public” und legen das Logo darin ab.</p>
+<p>In der Datei <code>body.html</code>(“imports\ui”) fügen wir nun im Header das Logo ein:</p>
 <pre><code>&lt;img style="display: block; text-align: center;" src="/logodogs.png" width="100%" border="0" alt="Rubidogs ToDo"&gt;
 </code></pre>
 <h4 id="mongodb">MongoDB</h4>
