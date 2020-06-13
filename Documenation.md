@@ -309,7 +309,7 @@ Template.task.events({
 });
 </code></pre>
 <p>Somit haben wir unserer Taskliste die ersten Event-Handler hinzugefügt mit denen gearbeitet werden kann.<br>
-<img src="https://www.einwebtechprojekt.one/meteor_working.png" alt="Tasks bearbeiten"></p>
+<img src="https://i.ibb.co/84djj8K/meteor-working.png" alt="enter image description here"></p>
 <p>Um erledigte Aufgaben auszublenden und diese nicht nach dem Erledigen löschen zu müssen, fügen wir in der <code>body.html</code>im “imports\ui” Ordner ein neues Label ein:</p>
 <pre><code>&lt;label class="hide-completed"&gt;
     &lt;input type="checkbox" /&gt;
