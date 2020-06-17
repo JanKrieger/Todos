@@ -709,5 +709,6 @@ Die Anzeige des Usernamens neben dem Task bei Facebook-Anmeldung wurde leider in
 <p>Edit 17.06.2020:<br>
 Fehler bei der manuellen Verbindung der MongoDB ausgebessert (Connect from anywhere)</p>
 <p>Anmerkung:<br>
-Ursprünglich war eine Bereitstellung auf Azure geplant, diese wurde nach Problemen mit dem Tool “Demeteorizer” jedoch abgebrochen und anstelle dessen wurde die Bereitstellung über heroku durchgeführt. Daher war der Azure App Service ohne Verwendung und die Dokumentation konnte hier seinen Platz finden.</p>
+Ursprünglich war eine Bereitstellung auf Azure geplant, diese wurde nach Problemen mit dem Tool “Demeteorizer” jedoch abgebrochen und anstelle dessen wurde die Bereitstellung über heroku durchgeführt. Daher war der Azure App Service ohne Verwendung und die Dokumentation konnte hier seinen Platz finden.<br>
+Die Domain wurde ebenfalls für dieses Vorhaben reserviert.</p>
 
