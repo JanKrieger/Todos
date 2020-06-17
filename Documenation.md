@@ -706,4 +706,8 @@ Dort tragen wir lediglich App ID und App Secret ein und bestätigen die Einstell
 <p>Nun können wir uns per Facebook in unserer Meteor-Todo-App anmelden:<br>
 <img src="https://i.ibb.co/X2ZCMZn/FB-Login.png" alt="enter image description here"><br>
 Die Anzeige des Usernamens neben dem Task bei Facebook-Anmeldung wurde leider in der Frist nicht mehr umgesetzt.</p>
+<p>Edit 17.06.2020:<br>
+Fehler bei der manuellen Verbindung der MongoDB ausgebessert (Connect from anywhere)</p>
+<p>Anmerkung:<br>
+Ursprünglich war eine Bereitstellung auf Azure geplant, diese wurde nach Problemen mit dem Tool “Demeteorizer” jedoch abgebrochen und anstelle dessen wurde die Bereitstellung über heroku durchgeführt. Daher war der Azure App Service ohne Verwendung und die Dokumentation konnte hier seinen Platz finden.</p>
 
