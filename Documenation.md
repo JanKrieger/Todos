@@ -8,7 +8,7 @@ ID: 1810640043
 <p><a href="https://www.fh-burgenland.at"><img src="https://www.fh-burgenland.at/typo3conf/ext/fh_burgenland/Resources/Public/Images/fh-burgenland-logo.png" alt="N|Solid"></a></p>
 <h1 id="meteor-todo-application---installationsleitfaden">Meteor ToDo Application - Installationsleitfaden</h1>
 <h2 id="allgemeines">Allgemeines</h2>
-<p>Die Applikation ist unter folgendem Link erreichbar: <a href="https://jk-simple-todos.herokuapp.com">https://jk-simple-todos.herokuapp.com</a></p>
+<p>Die Applikation ist unter folgendem Link erreichbar: <a href="https://jk-simple-todos.herokuapp.com">https://jk-simple-todos.herokuapp.com</a> oder unter  <a href="http://einwebtechprojekt.one">http://einwebtechprojekt.one</a>"</p>
 <h2 id="lokale-installation-von-meteor">Lokale Installation von Meteor</h2>
 <h3 id="installation-unter-windows">Installation unter Windows</h3>
 <h4 id="download-von-chocolatey">Download von Chocolatey</h4>
